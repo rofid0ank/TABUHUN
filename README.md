@@ -1,5 +1,9 @@
 #### ISI WORDLIST
-```
+<details>
+    <summary>KLIK DISINI</summary>
+    ```
+    #### ISI WORDLIST
+ ```
 1 januari 2000
 1 januari 2001
 1 januari 2002
@@ -27325,3 +27329,5 @@
 33 DESEMBER 2021
 33 DESEMBER 2022
 ```
+    </summary>
+</detaisl>
