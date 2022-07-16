@@ -2,7 +2,7 @@
 <details>
     <summary>KLIK DISINI</summary>
 
-    ```
+    ```js
     1 januari 2000
 
     sampai 
